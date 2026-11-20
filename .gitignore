@@ -1,0 +1,33 @@
+﻿# Python environments
+hotel_booking_env/
+.venv/
+venv/
+
+# Python cache and testing
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.spyproject/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Datasets
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/external/*
+
+# Logs
+logs/
+*.log
+
+# Large intermediate predictions
+reports/model_results/oof_predictions.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db

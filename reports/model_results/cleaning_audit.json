@@ -1,0 +1,8 @@
+{
+  "rows_before": 119390,
+  "exact_duplicates_removed": 31994,
+  "zero_guest_rows_removed": 166,
+  "rows_after": 87230,
+  "adr_upper_cap_99_9_percentile": 335.0,
+  "conflicting_predictor_groups": "Retained"
+}

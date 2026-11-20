@@ -1,0 +1,15 @@
+hotel,market_segment,original_records,duplicate_groups,additional_copies,duplicate_copy_rate_pct
+City Hotel,Groups,13975,1157,11340,81.1449016100179
+City Hotel,Offline TA/TO,16747,1425,9476,56.58326864513047
+City Hotel,Online TA,38748,2608,3754,9.688241973779292
+Resort Hotel,Groups,5836,687,3529,60.46949965729952
+Resort Hotel,Online TA,17729,802,1105,6.232726042077951
+Resort Hotel,Offline TA/TO,7472,455,854,11.429336188436832
+City Hotel,Corporate,2986,232,759,25.418620227729406
+City Hotel,Direct,6093,393,534,8.764155588380108
+Resort Hotel,Corporate,2309,159,324,14.032048505846687
+Resort Hotel,Direct,6513,210,268,4.114847228619683
+City Hotel,Complementary,542,22,29,5.350553505535055
+Resort Hotel,Complementary,201,12,12,5.970149253731343
+City Hotel,Aviation,237,9,10,4.219409282700422
+City Hotel,Undefined,2,0,0,0.0

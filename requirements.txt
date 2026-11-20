@@ -1,0 +1,13 @@
+﻿pandas==3.1.1
+numpy==2.5.5
+scikit-learn==1.9.1
+matplotlib
+seaborn
+plotly==7.1.0
+streamlit==1.67.0
+joblib==1.6.0
+shap==0.54.1
+openpyxl
+xgboost==3.4.1
+lightgbm==4.7.0
+pytest
